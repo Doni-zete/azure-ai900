@@ -3,9 +3,13 @@
 Criar uma solução de mineração de conhecimento que facilite a busca de insights sobre as experiências dos clientes.
 
 **Criar recursos do Azure**
+
 **Extrair dados de uma fonte de dados**
+
 **Enriqueça os dados com habilidades de IA**
+
 **Utilize o indexador do Azure no portal do Azure**
+
 **Consulte seu índice de pesquisa**
 **Revise os resultados salvos em uma Loja de conhecimento**
 
