@@ -4,14 +4,14 @@ O Azure AI Language Service inclui análise de texto e recursos de PNL. Isso inc
 
 **Crie um recurso de idioma**
 
-![Criando](https://github.com/Doni-zete/azure-ai900/blob/main/analise-sentimento/imgs/criando.png)
+![Criando](https://github.com/Doni-zete/azure-ai900/blob/main/analise-sentimento/inputs/criando.png)
 
 
 Observe que há um sentimento geral seguido por pontuações próximas a três categorias: pontuação positiva , pontuação neutra e pontuação negativa . Em cada uma das categorias é atribuída uma pontuação entre 0 e 1. Essas pontuações de confiança indicam a probabilidade do texto fornecido ser um sentimento específico.
 
-![documento](https://github.com/Doni-zete/azure-ai900/blob/main/analise-sentimento/imgs/documento1.png)
+![documento](https://github.com/Doni-zete/azure-ai900/blob/main/analise-sentimento/inputs/documento1.png)
 
-![documento](https://github.com/Doni-zete/azure-ai900/blob/main/analise-sentimento/imgs/documento1.1.png)
+![documento](https://github.com/Doni-zete/azure-ai900/blob/main/analise-sentimento/inputs/documento1.1.png)
 
 
 Referência
